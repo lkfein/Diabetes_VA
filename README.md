@@ -10,4 +10,5 @@ This data was derived from a larger County Health Data set linked here: [County 
 This repository was created and is maintained by Lucy Feinsot, the primary developer and analyst. 
 # Visualization
 This visual shown below shows the relative increase in diabetes in VA (2014-15), which is exactly what this repository is trying to show. 
+
 <img width="537" alt="Screenshot 2025-04-24 at 6 09 11 PM" src="https://github.com/user-attachments/assets/442a7b9f-d4cf-4f18-a62d-725fffdc756a" />
